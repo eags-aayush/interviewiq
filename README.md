@@ -1,7 +1,7 @@
 
 # InterviewIQ – Interview Analysis Platform
 
-**Live Site:** 🌐 [interviewiq.netlify.app](https://interviewiq.netlify.app)
+**Live Site:** 🌐 [interview-iq.netlify.app](https://interview-iq.netlify.app)
 
 InterviewIQ is a modern, AI-powered platform designed to help job seekers prepare for interviews through interactive mock interviews, real-time feedback, and detailed analysis. It empowers users with personalized insights, allowing them to build confidence, improve fluency, and get job-ready efficiently.
 
@@ -77,7 +77,7 @@ InterviewIQ/
 ## 📌 Deployment
 
 This project is deployed via **Netlify** at  
-➡️ [https://interviewiq.netlify.app](https://interviewiq.netlify.app)
+➡️ [https://interview-iq.netlify.app](https://interview-iq.netlify.app)
 
 ---
 
