@@ -1,5 +1,5 @@
 {
-  "name": "suprathon",
+  "name": "locationiq",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,7 +14,6 @@
     "framer-motion": "^12.23.6",
     "lottie-react": "^2.4.1",
     "lucide-react": "^0.525.0",
-    "quillbot-api": "^0.0.3",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-router-dom": "^7.7.0",
